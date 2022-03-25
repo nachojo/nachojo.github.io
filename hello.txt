@@ -1,0 +1,48 @@
+Last login: Fri Mar 25 16:01:35 on ttys000
+johayeong@johayeong-ui-MacBookAir ~ % cd test 
+johayeong@johayeong-ui-MacBookAir test % git add git-pullrequest.txt
+fatal: pathspec 'git-pullrequest.txt' did not match any files
+johayeong@johayeong-ui-MacBookAir test % git add datastructure2nd.py
+johayeong@johayeong-ui-MacBookAir test % git commit -m "create git-datastructure2nd.py"
+[master (root-commit) 9111758] create git-datastructure2nd.py
+ 1 file changed, 162 insertions(+)
+ create mode 100644 datastructure2nd.py
+johayeong@johayeong-ui-MacBookAir test % git pull 
+There is no tracking information for the current branch.
+Please specify which branch you want to merge with.
+See git-pull(1) for details.
+
+    git pull <remote> <branch>
+
+If you wish to set tracking information for this branch you can do so with:
+
+    git branch --set-upstream-to=<remote>/<branch> master
+
+johayeong@johayeong-ui-MacBookAir test % git checkout -b test
+Switched to a new branch 'test'
+johayeong@johayeong-ui-MacBookAir test % vi hello.txt
+
+hihihihihihihi
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+-- INSERT --
