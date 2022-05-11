@@ -1,7 +1,7 @@
 ---
 layout: post
 title: post-sample
-date: 2020-01-02 19:20:23 +0900
+date: 2022-05-11 19:20:23 +0900
 category: sample
 ---
 
@@ -9,7 +9,7 @@ category: sample
 
 > Hello!
 
-포스팅 테스트
+포스팅 테스트 입니다
 
 ```ruby
 print 'hello world'
